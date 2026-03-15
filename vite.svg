@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256">
+    <defs>
+        <linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%">
+            <stop offset="0%" stop-color="#41D1FF"></stop>
+            <stop offset="100%" stop-color="#BD34FE"></stop>
+        </linearGradient>
+    </defs>
+    <path fill="url(#IconifyId1813088fe1fbc01fb466)" d="M184,88c-23.4,0-43.6,10.2-56,26.1C115.6,98.2,95.4,88,72,88C32.2,88,0,120.2,0,160c0,39.8,32.2,72,72,72c23.4,0,43.6-10.2,56-26.1c12.4,15.9,32.6,26.1,56,26.1c39.8,0,72-32.2,72-72C256,120.2,223.8,88,184,88z M72,200c-22.1,0-40-17.9-40-40s17.9-40,40-40s40,17.9,40,40S94.1,200,72,200z M184,200c-22.1,0-40-17.9-40-40s17.9-40,40-40s40,17.9,40,40S206.1,200,184,200z"></path>
+</svg>
