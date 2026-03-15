@@ -1,0 +1,6 @@
+{
+  "apiKey": "AQ.Ab8RN6IevXQ0b7gL9c_zCH8Kz9D2Zrd78yVlvLT0WzVJwqmuug",
+  "projectId": "proahmed",
+  "port": 3456,
+  "allowedOrigins": ["antigravity://app"]
+}
